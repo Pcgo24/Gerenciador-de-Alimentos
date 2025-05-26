@@ -44,15 +44,6 @@ Com ele, você pode cadastrar, editar, remover e visualizar facilmente os alimen
    ```
    > Altere o comando acima conforme a stack utilizada.
 
-## 🤝 Contribuição
-
-Contribuições são bem-vindas!  
-Sinta-se à vontade para abrir issues, enviar pull requests ou sugerir melhorias.
-
-## 📄 Licença
-
-Este projeto está sob a licença [MIT](LICENSE).
-
 ---
 
 Feito com 💚 por [Pcgo24](https://github.com/Pcgo24)
